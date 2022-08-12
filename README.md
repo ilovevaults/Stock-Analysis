@@ -3,7 +3,7 @@
 The goal here was to take a code that was used to analyze a dataset of only 12 stock market prices. The next step was to refractor the code that instead of being able to analyze just 12 stock market prices it can analyze the prices in the entire stock market in a more efficient way.
 ### Results 
 In order to make the code more efficient I had to change the nesting order for my loops. This was done by creating 4 new arrays
-which were tickerVolumes,tickerEndingPrices,tickers, and tickerStartingPrices
+which were tickerVolumes,tickerEndingPrices,tickers, and tickerStartingPrices.
 
     
     '3) Initialize array of all tickers
